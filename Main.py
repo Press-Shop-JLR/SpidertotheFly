@@ -82,7 +82,7 @@ def question3():
         break
         return
     elif userInput =="Refuse":
-        print(figlet_format("Wrong choice im afraid little fly, now I must eat you....", font = "sblood"))
+        print("Wrong choice im afraid little fly, now I must eat you....")
     break
     return
 
